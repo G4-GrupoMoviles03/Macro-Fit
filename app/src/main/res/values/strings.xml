@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MacroFit</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="alimento">Alimento</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="u_medida">U medida</string>
+</resources>
